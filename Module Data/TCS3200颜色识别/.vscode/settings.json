@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "tcs3200.h": "c",
+        "exception": "c",
+        "new": "c"
+    }
+}
